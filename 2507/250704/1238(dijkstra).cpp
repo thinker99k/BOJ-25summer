@@ -25,7 +25,7 @@ struct Edge {
 
 int n, m, x;
 
-set<Edge> graph[1001]; // map으로 바꾸면 시간 개선 가능
+set<Edge> graph[1001];
 
 int dijkstra(int src, int dst) {
     vector<int> dist(n+1, INF);
