@@ -8,20 +8,8 @@ int n;
 
 vector<int> graph[32001];
 vector<int> in_degree(32001);
-vector<bool> visited(32001);
 
 vector<int> ans;
-
-void dfs(int node){
-    visited[node] = true;
-    cout << node << "\n";
-
-    for(auto &it : graph[node]){
-        if(!visited[it]){
-            dfs(it);
-        }
-    }
-}
 
 void kahn(){
     queue<int> q;
