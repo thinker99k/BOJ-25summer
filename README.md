@@ -1,14 +1,10 @@
 # BOJ-25summer
-<img src="https://raw.githubusercontent.com/thinker99k/BOJ-25summer/refs/heads/main/P5.png" width="400px">
-
+<img src="https://raw.githubusercontent.com/thinker99k/BOJ-25summer/refs/heads/main/P5.png" width="400px">\
 25.06.21 : 1406 (Gold 1)\
 -> 25.08.31 : 1639 (Platinum 5)
 
-<img src="https://raw.githubusercontent.com/thinker99k/BOJ-25summer/refs/heads/main/streak72.png" width="400px">
-
-
+<img src="https://raw.githubusercontent.com/thinker99k/BOJ-25summer/refs/heads/main/streak72.png" width="400px">\
 **스트릭 72일(기간 전체)**
-
 
 ## 1. 맞은 문제
 >> 문제번호-
